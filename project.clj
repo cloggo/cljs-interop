@@ -1,4 +1,4 @@
-(defproject interop "0.1.0"
+(defproject org.clojars.cloggo/interop "0.1.0"
   :description "Extras clojurescript -> javascript interop"
   :url "https://github.com/cloggo/cljs-interop"
   :license {:name "MIT" }
